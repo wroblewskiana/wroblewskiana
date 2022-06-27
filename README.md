@@ -1,8 +1,13 @@
-### Hi there 👋
+# sobre mim
+- olá, eu sou a ana;
+- estou interessado em cursos;
+- atualmente estou aprendendo SCRATCH e JAVASCRIPT;
+- estou disponivel para colaborar e ajudar meus colegas;
+- instagram: @pv_da_wrobleskinha
 
-<!--
-**wroblewskiana/wroblewskiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+**wroblewskiana/wroblewskiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
